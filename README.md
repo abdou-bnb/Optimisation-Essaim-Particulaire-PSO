@@ -7,13 +7,11 @@ Particle Swarm Optimization (PSO) is an optimization technique proposed and deve
 
 Through basic movement rules, particles (individuals) are encouraged to converge towards a global optimum. At initialization, each particle is randomly positioned in the search space of the problem. The algorithm's evolution, moving the particles, is described by the following two equations:
 
-\[
-V_{k+1} = \rho V_k + b_1 \times (P_i - X_k) + b_2 \times (P_g - X_k)
-\]
 
-\[
-X_{k+1} = X_k + V_{k+1}
-\]
+\[ V_{k+1} = \rho V_k + b_1 \times (P_i - X_k) + b_2 \times (P_g - X_k) \]
+
+\[ X_{k+1} = X_k + V_{k+1} \]
+
 
 
 Where:
