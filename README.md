@@ -1,4 +1,4 @@
-# Optimisation-Essaim-Particulaire-PSO
+
 # Particle Swarm Optimization (PSO)
 
 Particle Swarm Optimization (PSO) is an optimization technique proposed and developed in the 1990s by R. Eberhart and J. Kennedy. It is based on the collaboration of a certain number of individuals. The number of individuals depends on the optimization problem being solved. PSO shares similarities with techniques based on ant colonies.
