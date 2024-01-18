@@ -24,3 +24,4 @@ Where:
 ## Usage
 
 To use PSO for your optimization problem, you need to initialize the particles, define the movement equations, and set the parameters \( \rho \), \( b_1 \), and \( b_2 \). You can adjust these parameters based on the characteristics of your optimization problem.
+
